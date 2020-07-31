@@ -1,4 +1,4 @@
-# Cal
+# a stack based calculator
 This is a basic&amp;simple calculator supporting ➕➖✖➗, whose order of priority is achieved by using Stack to store all operators and operand. Currently it only features in the calculation of integers. //a double-supporting version is in progress.
 
 How to use:
